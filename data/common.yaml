@@ -1,0 +1,5 @@
+---
+profile_secrets::enable: false
+profile_secrets::vault_authmethod: null
+profile_secrets::vault_url: "https://asd-vault1.internal.ncsa.edu:8200/v1/"
+profile_secrets::vault_secret_engine: null
