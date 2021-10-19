@@ -59,6 +59,6 @@ function profile_secrets::lookup_uri(
       $return_value = 'ERROR'
       }
   }
-  
+
   $return_value
 }
