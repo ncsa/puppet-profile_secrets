@@ -12,6 +12,9 @@ To install and configure:
 ```puppet
 include profile_secrets
 ```
+Instructions for how to put secrets and setup authentication in Vault are located here:
+https://wiki.ncsa.illinois.edu/display/PUPPET/Using+Vault+for+Serving+Sensitive+Data
+
 Since Deferred functions cannot do hiera lookups and can only use ruby compiled functions, this
 module is used to generate the Vault URI and create reference for looking up common vault variables
 for various profiles. The best way to use this is to pull the hiera lookup variables into local variables
