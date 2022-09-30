@@ -1,4 +1,6 @@
 # profile_secrets
+This profile is no longer maintained. Please use https://wiki.ncsa.illinois.edu/display/PUPPET/Encrypting+Puppet+hiera+with+eyaml.
+
 
 ![pdk-validate](https://github.com/ncsa/puppet-profile_secrets/workflows/pdk-validate/badge.svg)
 ![yamllint](https://github.com/ncsa/puppet-profile_secrets/workflows/yamllint/badge.svg)
